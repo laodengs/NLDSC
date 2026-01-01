@@ -1,39 +1,60 @@
-NLDSC Blockchain Whitepaper (Updated for Bonding Curve Mechanism)
+NLDSC (New LAODENGS Coin) Blockchain Whitepaper – 2026 Edition
 
 Happy New Year 2026!
 
-NLDSC (New LAODENGS Coin) was born from a real blockchain journey:
-From learning to use exchanges, buying crypto via P2P, withdrawing and making on-chain transfers,
-to understanding AMM pricing, and finally issuing a token through four.meme platform with a bonding curve mechanism.
+NLDSC (New LAODENGS Coin) is a decentralized token experiment born from a real blockchain journey:
+From learning how to use exchanges, buying crypto via P2P, withdrawing and making on-chain transfers,
+to understanding AMM pricing, and finally issuing a token on the four.meme platform using a bonding curve mechanism.
 
-NLDSC is not VC-backed, not a PPT project, and not a promise of profit.
-It is a decentralized token experiment built on BNB Chain, where rules are written in code and price is dynamically determined by the bonding curve.
+This is not a VC-backed token, not a PPT project, and not a promise of profit. NLDSC is built on BNB Chain, where rules are written in code and price is determined dynamically by the market and bonding curve.
 
-Token Sale & Bonding Curve
+1️⃣ Token Issuance & Platform Mechanism
 
-Total Supply: 20,260,000,000 NLDSC
+Total Supply: Determined by the four.meme platform bonding curve mechanism. The creator does not control the full supply.
 
-Initial Purchase: Early buyers can acquire NLDSC directly from the bonding curve.
+Token Release: Tokens are gradually released through the bonding curve for public purchase. Early buyers receive tokens at lower prices, while price rises automatically as more tokens are purchased.
 
-Dynamic Pricing: Price increases as more tokens are purchased. Early buyers pay less, later buyers pay more.
+Early Purchase / Anti-Sniping: Small early purchases help stabilize the initial price and prevent bots or speculators from manipulating the market.
 
-Raised Amount: The bonding curve tracks cumulative purchases (e.g., 12,000 USDT) and remaining tokens available (e.g., 794,849,898.2 NLDSC with 19.8 USDT value).
+2️⃣ Bonding Curve Dynamics
 
-Liquidity Injection: When the market cap reaches $58,800, all funds from the bonding curve are deposited into PancakeSwap and some NLDSC may be burned to increase scarcity.
+Dynamic Pricing: Price increases progressively according to the bonding curve formula. Early buyers pay less, later buyers pay more.
 
-This mechanism ensures fair launch, prevents sniping, stabilizes price, and gradually provides liquidity.
+Cumulative Raised Amount: All purchases are tracked on-chain. For example, a cumulative 12,000 USDT has been raised so far.
 
-Core Principles
+Available Tokens: Remaining tokens in the bonding curve are available for purchase at prices determined by the curve.
 
-Decentralization: The contract automatically manages available tokens; the creator cannot control or withdraw all supply.
+The bonding curve ensures a fair launch, transparent price progression, and gradual market-driven liquidity.
 
-Transparency: Purchases and price progression are visible on-chain.
+3️⃣ Liquidity & Burn Mechanism
 
-Fairness: Early buyers are rewarded with lower prices, but no guarantees or profit promises exist.
+Liquidity Injection: When the token’s market cap reaches $58,800, all funds from the bonding curve are deposited into PancakeSwap to provide liquidity.
 
-Continuity: NLDSC continues a blockchain journey, now written openly on-chain.
+Token Burn: Part of the NLDSC in the bonding curve may be burned to increase scarcity and support price stability.
 
-Why NLDSC
+Progression: The higher the price climbs along the bonding curve, the more market value and liquidity are established.
+
+This mechanism ensures price stability, scarcity, and long-term market health.
+
+4️⃣ Creator & Governance
+
+The creator cannot withdraw the full supply or control all tokens.
+
+Handled entirely by the platform contract and bonding curve.
+
+Transparency is maintained on-chain, with every purchase, price, and liquidity injection visible to the public.
+
+5️⃣ Core Principles
+
+Decentralization: Token distribution and pricing are automated and market-driven.
+
+Transparency: All transactions, purchases, and price progression are visible on-chain.
+
+Fairness: Early buyers are rewarded with lower prices, but no promises of profit exist.
+
+Continuity: NLDSC continues a personal blockchain journey, now written openly for the community.
+
+6️⃣ Why NLDSC
 
 For those who still believe in what blockchain was meant to be:
 
@@ -46,14 +67,14 @@ Early participation > Speculation
 NLDSC — New LAODENGS Coin.
 A real experiment in decentralized issuance, bonding curves, and open-market dynamics.
 
-✅ Key Updates from Original Version:
+✅ Key Updates in This Whitepaper
 
-Added bonding curve mechanism explanation
+Correctly reflects four.meme platform mechanism and bonding curve dynamics
 
-Clarified total supply & token sale dynamics
+Clarifies total supply is platform-controlled
 
-Explained raised amount vs remaining tokens
+Explains raised amount, available tokens, liquidity injection, and burn mechanism
 
-Included automatic liquidity injection and burn
+Emphasizes creator cannot control full supply
 
-Emphasized creator cannot withdraw all tokens
+Highlights early purchase benefits and anti-sniping purpose
