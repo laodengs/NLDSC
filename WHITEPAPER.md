@@ -1,150 +1,59 @@
-NLDSC (New LAODENGS Coin)
-Blockchain Whitepaper (English Edition)
-1. Overview
+NLDSC Blockchain Whitepaper (Updated for Bonding Curve Mechanism)
 
-NLDSC (New LAODENGS Coin) is a decentralized digital asset project born from a real and verifiable blockchain journey. The project originates from an individual learning and participating in crypto from zero — starting with centralized exchanges, P2P trading, on-chain transfers, and ultimately writing and deploying a smart contract independently.
+Happy New Year 2026!
 
-NLDSC does not rely on venture capital narratives, artificial hype, or guaranteed returns. Instead, it emphasizes transparency, simplicity, and adherence to the original principles of blockchain technology.
+NLDSC (New LAODENGS Coin) was born from a real blockchain journey:
+From learning to use exchanges, buying crypto via P2P, withdrawing and making on-chain transfers,
+to understanding AMM pricing, and finally issuing a token through four.meme platform with a bonding curve mechanism.
 
-2. Background
+NLDSC is not VC-backed, not a PPT project, and not a promise of profit.
+It is a decentralized token experiment built on BNB Chain, where rules are written in code and price is dynamically determined by the bonding curve.
 
-In recent years, many blockchain projects have focused on marketing narratives, institutional backing, and short-term speculation, often neglecting decentralization and user sovereignty.
+Token Sale & Bonding Curve
 
-NLDSC was created as a response to this trend:
+Total Supply: 20,260,000,000 NLDSC
 
-No private fundraising
+Initial Purchase: Early buyers can acquire NLDSC directly from the bonding curve.
 
-No institutional control
+Dynamic Pricing: Price increases as more tokens are purchased. Early buyers pay less, later buyers pay more.
 
-No hidden allocations
+Raised Amount: The bonding curve tracks cumulative purchases (e.g., 12,000 USDT) and remaining tokens available (e.g., 794,849,898.2 NLDSC with 19.8 USDT value).
 
-Only publicly deployed code, open rules, and market-driven consensus.
+Liquidity Injection: When the market cap reaches $58,800, all funds from the bonding curve are deposited into PancakeSwap and some NLDSC may be burned to increase scarcity.
 
-3. Core Principles
+This mechanism ensures fair launch, prevents sniping, stabilizes price, and gradually provides liquidity.
 
-NLDSC follows several fundamental principles:
+Core Principles
 
-Code is Law
-Smart contract logic defines the rules and is publicly verifiable on-chain.
+Decentralization: The contract automatically manages available tokens; the creator cannot control or withdraw all supply.
 
-Fair Launch
-No presale, no private allocation, and no privileged access.
+Transparency: Purchases and price progression are visible on-chain.
 
-Market-Driven Pricing
-Price is determined solely by decentralized AMM trading mechanisms.
+Fairness: Early buyers are rewarded with lower prices, but no guarantees or profit promises exist.
 
-Transparency Over Promises
-The project makes no profit guarantees or price commitments.
+Continuity: NLDSC continues a blockchain journey, now written openly on-chain.
 
-4. Technology Architecture
+Why NLDSC
 
-Blockchain: BNB Chain (BSC)
+For those who still believe in what blockchain was meant to be:
 
-Token Standard: BEP-20
+Code > Narratives
 
-Wallet Support: MetaMask, Trust Wallet, and other BSC-compatible wallets
+Market > Promises
 
-Trading Model: Decentralized exchanges using AMM mechanisms (e.g., PancakeSwap)
+Early participation > Speculation
 
-4.1 Smart Contract Design
+NLDSC — New LAODENGS Coin.
+A real experiment in decentralized issuance, bonding curves, and open-market dynamics.
 
-Simple and auditable transfer logic
+✅ Key Updates from Original Version:
 
-No hidden blacklist or freeze functions
+Added bonding curve mechanism explanation
 
-Contract behavior is fully transparent on-chain
+Clarified total supply & token sale dynamics
 
-5. Tokenomics
+Explained raised amount vs remaining tokens
 
-Token Name: New LAODENGS Coin
+Included automatic liquidity injection and burn
 
-Symbol: NLDSC
-
-Decimals: 18
-
-Total Supply: Defined by the deployed smart contract
-
-5.1 Distribution Philosophy
-
-Majority of tokens enter public circulation
-
-Liquidity is provided openly
-
-No excessive team-controlled supply designed for long-term selling pressure
-
-5.2 Liquidity & Pricing
-
-NLDSC uses an Automated Market Maker (AMM) model based on the constant product formula:
-
-x × y = k
-
-Initial price is set by the first liquidity provider
-
-Subsequent price movement is determined by market trading behavior
-
-6. Use Cases
-
-NLDSC is designed as an experimental and community-driven token with potential use cases including:
-
-Decentralized payments
-
-Web3 services and applications
-
-Community incentives and participation
-
-Exploratory DeFi and on-chain experiments
-
-These use cases may evolve organically through community participation.
-
-7. Community & Governance
-
-NLDSC adopts a lightweight governance approach:
-
-Community discussion precedes formal governance mechanisms
-
-Transparency is prioritized over complex voting systems
-
-DAO structures may be explored gradually when appropriate
-
-8. Roadmap
-Phase 1: Deployment
-
-Smart contract deployment
-
-Initial liquidity creation
-
-Wallet and DEX integration
-
-Phase 2: Community Growth
-
-Community formation
-
-Public documentation and branding
-
-Platform listings and visibility
-
-Phase 3: Exploration
-
-Web3 payment testing
-
-Community-driven tools
-
-Additional on-chain experiments
-
-9. Risk Disclosure
-
-NLDSC is a high-risk digital asset. Token prices are volatile and determined entirely by the market. Participation does not constitute investment advice, and users should only participate with funds they can afford to lose.
-
-10. Conclusion
-
-NLDSC is a transparent on-chain experiment.
-
-It does not promise financial success, but it does guarantee:
-
-Open rules
-
-Verifiable code
-
-A real blockchain history
-
-NLDSC exists for those who still believe in the original meaning of blockchain.
+Emphasized creator cannot withdraw all tokens
